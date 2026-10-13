@@ -1,0 +1,15 @@
+# Material docente de la UMA (enunciados y apuntes): no se publica
+material-curso/
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
