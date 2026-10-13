@@ -12,7 +12,7 @@ Prácticas resueltas del curso **Aprendizaje Automático y Análisis Visual de D
 Cada práctica es un notebook de Jupyter completamente ejecutado, con el código comentado
 y el análisis de los resultados obtenidos.
 
-**Autor:** Jaime Rodrigo Roldán Corcelles
+**Autor:** Rodrigo Roldán Corcelles
 
 ---
 
