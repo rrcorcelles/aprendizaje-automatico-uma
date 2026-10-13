@@ -45,7 +45,7 @@ aprendizaje-automatico-uma/
 ## 🚀 Cómo ejecutarlo
 
 ```bash
-git clone https://github.com/<tu-usuario>/aprendizaje-automatico-uma.git
+git clone https://github.com/rrcorcelles/aprendizaje-automatico-uma.git
 cd aprendizaje-automatico-uma
 
 python -m venv .venv
